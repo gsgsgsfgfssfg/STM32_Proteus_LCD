@@ -1,0 +1,10 @@
+LCD/Debug/
+LCD/Release/
+LCD/**/*.o
+LCD/**/*.d
+LCD/**/*.elf
+LCD/**/*.map
+LCD/**/*.su
+.metadata/
+*.pdsbak
+*.workspace
